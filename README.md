@@ -1,0 +1,1 @@
+This repository demonstrates a common PHP error: division by zero. The `bug.php` file contains the erroneous code, while `bugSolution.php` provides a corrected version with error handling.  The error is a common pitfall that can easily be avoided by implementing robust error checking.
